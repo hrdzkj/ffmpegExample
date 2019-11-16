@@ -1,1 +1,5 @@
 /x64
+/out/*.ilk
+/ole32.pdb
+/out/ffmpegExample.pdb
+/out/ffmpegExample.exe
