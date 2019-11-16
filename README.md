@@ -7,3 +7,10 @@
 
 3.vs的各种目录的含义：  
 http://www.360doc.com/content/16/1125/10/10408243_609370550.shtml
+
+4.  
+参考以下链接学习 学习官方example  
+4.1 学习transcoding.c的链接  
+https://www.2cto.com/kf/201611/562276.html   
+https://www.jianshu.com/p/f04e0028dd14   
+

@@ -507,7 +507,7 @@ static int flush_encoder(unsigned int stream_index)
 	return ret;
 }
 
-// 参考https://www.2cto.com/kf/201611/562276.html 学习官方代码
+
 int main(int argc, char **argv)
 {
 	int ret;
